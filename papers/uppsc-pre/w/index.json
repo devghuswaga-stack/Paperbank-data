@@ -1,0 +1,15 @@
+{
+ "examId": "uppsc-pre",
+ "mode": "w",
+ "papers": [
+  {
+   "id": "uppsc-pre-w-001",
+   "title": "UPPSC Combined State PCS Prelims - Practice Paper 1",
+   "file": "uppsc-pre-w-001.json",
+   "count": 4,
+   "totalMarks": 60,
+   "source": "ai",
+   "created": "2026-11-07"
+  }
+ ]
+}

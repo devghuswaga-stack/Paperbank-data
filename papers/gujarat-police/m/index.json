@@ -1,0 +1,16 @@
+{
+ "examId": "gujarat-police",
+ "mode": "m",
+ "papers": [
+  {
+   "id": "gujarat-police-m-001",
+   "title": "Gujarat Police PSI Practice Paper 1 (AI)",
+   "file": "gujarat-police-m-001.json",
+   "count": 200,
+   "totalMarks": 200,
+   "source": "ai",
+   "created": "2026-11-08",
+   "importHash": "45cdb8f0ec9f65a4"
+  }
+ ]
+}

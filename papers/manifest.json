@@ -1,6 +1,9 @@
 {
- "updated": "2026-11-08T02:30:29Z",
+ "updated": "2026-11-08T02:31:20Z",
  "exams": {
+  "gujarat-police": {
+   "m": 1
+  },
   "uppsc-pre": {
    "w": 1
   }

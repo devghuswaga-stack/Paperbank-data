@@ -31,6 +31,16 @@
    "source": "ai",
    "created": "2026-11-08",
    "importHash": "b8370a6cfe161c0b"
+  },
+  {
+   "id": "gujarat-police-m-004",
+   "title": "Gujarat Police Constable Practice Paper 3",
+   "file": "gujarat-police-m-004.json",
+   "count": 200,
+   "totalMarks": 200,
+   "source": "real",
+   "created": "2026-11-08",
+   "importHash": "9a5a41800795d814"
   }
  ]
 }
